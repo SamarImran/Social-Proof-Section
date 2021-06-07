@@ -118,8 +118,7 @@ img {
   }
   .hero-section {
     width: 50vw;
-    padding: 3em;
-    padding-bottom: 1.5em;
+    padding: 3em 1em 1.5em;
   }
 
   h1 {
@@ -141,7 +140,7 @@ img {
 
   ul.cards {
     display: flex !important;
-    padding: 0 2em;
+    padding: 0;
   }
 
   ul.ratings > li {
